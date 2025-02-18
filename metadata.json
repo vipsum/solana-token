@@ -1,6 +1,6 @@
 {
-  "name": "Example Token",
-  "symbol": "EXMPL",
-  "description": "Example token from Solana Making a Token guide.",
-  "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png"
+  "name": "Swan Token",
+  "symbol": "SWAN",
+  "description": "Swan token. Done from Solana Making a Token guide.",
+  "image": "https://raw.githubusercontent.com/vipsum/solana-token/refs/heads/main/swancomputer.jpeg"
 }
